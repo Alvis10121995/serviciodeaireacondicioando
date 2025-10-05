@@ -50,7 +50,7 @@ export function ACHeader() {
           <div className="hidden md:flex items-center gap-4">
             <Button size="lg" className="gap-2">
               <Phone className="w-4 h-4" />
-              Llamar Ahora
+              Chateanos al Whatssap
             </Button>
           </div>
 
@@ -87,7 +87,7 @@ export function ACHeader() {
               </a>
               <Button size="lg" className="gap-2 w-full">
                 <Phone className="w-4 h-4" />
-                Llamar Ahora
+                 Chateanos al Whatssap
               </Button>
             </nav>
           </div>
